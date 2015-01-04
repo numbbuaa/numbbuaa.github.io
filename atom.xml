@@ -1,16 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Ning's blog]]></title>
   <link href="http://numbbuaa.github.io/atom.xml" rel="self"/>
   <link href="http://numbbuaa.github.io/"/>
-  <updated>2015-01-04T20:34:37+08:00</updated>
+  <updated>2015-01-04T21:14:00+08:00</updated>
   <id>http://numbbuaa.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[numbbuaa]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello, 2015!]]></title>
+    <link href="http://numbbuaa.github.io/blog/2015/01/04/hello/"/>
+    <updated>2015-01-04T21:11:12+08:00</updated>
+    <id>http://numbbuaa.github.io/blog/2015/01/04/hello</id>
+    <content type="html"><![CDATA[<h2>Hello, 2015!</h2>
+
+
+<p>（sui）时（yue）光（bu）飞（rao）逝（ren），转眼之间我们已经进入了2015年，新年新气象，我计划从现在开始，在这里开启流水账的节奏，希望以后怀旧的时候，也能有点记忆干货。</p>
+
+
+<p>Boys and girls, let&#8217;s go!</p>
+
+
+<p>04 Jan 2015</p>
+
+]]></content>
+  </entry>
   
 </feed>
