@@ -1,0 +1,12 @@
+---
+layout: post
+title: "Hello, 2015!"
+date: 2015-01-04 21:11:12 +0800
+comments: true
+categories: 
+---
+
+<h2>{{page.title}}</h2>
+<p>（sui）时（yue）光（bu）飞（rao）逝（ren），转眼之间我们已经进入了2015年，新年新气象，我计划从现在开始，在这里开启流水账的节奏，希望以后怀旧的时候，也能有点记忆干货。</p>
+<p>Boys and girls, let's go!</p>
+<p>{{page.date | date_to_string}}</p>
